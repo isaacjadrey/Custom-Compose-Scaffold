@@ -68,6 +68,6 @@ dependencies {
     debugImplementation 'androidx.compose.ui:ui-tooling:1.4.2'
     debugImplementation 'androidx.compose.ui:ui-test-manifest:1.4.2'
 
-   implementation project(':composecustomscaffold')
-
+//   implementation project(':composecustomscaffold')
+    implementation 'com.github.isaacjadrey:Custom-Compose-Scaffold:1.0.0'
 }

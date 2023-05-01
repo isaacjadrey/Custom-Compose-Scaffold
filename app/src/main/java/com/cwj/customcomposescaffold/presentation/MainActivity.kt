@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.MainScreen
+import com.cwj.customcomposescaffold.presentation.screens.MainScreen
 import com.cwj.composecustomscaffolddrawerlib.ui.theme.CustomComposeNavDrawerTheme
 
 class MainActivity : ComponentActivity() {

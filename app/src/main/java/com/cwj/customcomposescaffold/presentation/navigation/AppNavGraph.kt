@@ -4,12 +4,11 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.cwj.composecustomscaffolddrawerlib.presentation.navigation.Screen
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.CartScreen
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.HomeScreen
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.NotificationsScreen
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.OrdersScreen
-import com.cwj.composecustomscaffolddrawerlib.presentation.screens.ProfileScreen
+import com.cwj.customcomposescaffold.presentation.screens.CartScreen
+import com.cwj.customcomposescaffold.presentation.screens.HomeScreen
+import com.cwj.customcomposescaffold.presentation.screens.NotificationsScreen
+import com.cwj.customcomposescaffold.presentation.screens.OrdersScreen
+import com.cwj.customcomposescaffold.presentation.screens.ProfileScreen
 
 @Composable
 fun AppNavGraph(navController: NavHostController) {

@@ -1,4 +1,4 @@
-package com.cwj.composecustomscaffolddrawerlib.presentation.screens
+package com.cwj.customcomposescaffold.presentation.screens
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope

@@ -24,7 +24,6 @@ import com.cwj.composecustomscaffold.CustomDrawerValue
 import com.cwj.composecustomscaffold.CustomScaffoldState
 import com.cwj.composecustomscaffold.rememberCustomDrawerState
 import com.cwj.composecustomscaffold.rememberCustomScaffoldState
-import com.cwj.composecustomscaffolddrawerlib.presentation.navigation.Screen
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

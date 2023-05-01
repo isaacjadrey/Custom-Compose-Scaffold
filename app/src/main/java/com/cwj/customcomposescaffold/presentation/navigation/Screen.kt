@@ -1,4 +1,4 @@
-package com.cwj.composecustomscaffolddrawerlib.presentation.navigation
+package com.cwj.customcomposescaffold.presentation.navigation
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Home
